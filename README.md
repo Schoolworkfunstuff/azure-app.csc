@@ -1,2 +1,2 @@
-# azure-app-service-cheese-finder
-practice with azure 
+# cheesefinder
+A cheese finding game
